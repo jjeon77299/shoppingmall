@@ -46,3 +46,5 @@ index
 css
 
 ![image](https://user-images.githubusercontent.com/97486359/170621322-69676862-b094-4d15-b546-52c427636888.png)
+
+line-height는 세로정렬이다.
