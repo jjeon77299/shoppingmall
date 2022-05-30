@@ -6,7 +6,6 @@ header
 
 ![image](https://user-images.githubusercontent.com/97486359/170632918-c90e6500-20fa-440b-98ca-ce051cb7d82f.png)
 
-
 nav
 
 ![image](https://user-images.githubusercontent.com/97486359/170621257-3e22c876-9d2f-4740-ba88-acdf56f418f8.png)
